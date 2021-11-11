@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reading_and_Writing_to_Console_28_Oct/1.0.0": {
+        "runtime": {
+          "Reading_and_Writing_to_Console_28_Oct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reading_and_Writing_to_Console_28_Oct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
